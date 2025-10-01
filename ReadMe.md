@@ -108,11 +108,12 @@ See the [`LICENSE`](LICENSE) file for more details.
 
 - Built with ❤️ using Python, Selenium, NumPy, and Pandas  
 - Inspired by educational data scraping projects  
-- If you find a bug or issue, just hit me up ✌️  
+- If you find a bug or issue, just hit me up ✌️
+-  😎 I use Arch btw 😎
 
 ---
 
 Thank you for checking out **Course Scraper**!
 
 ---
-<img src="https://img.shields.io/badge/OS-Arch%20Linux-blue?logo=arch-linux" alt="Arch Linux Badge" /> 😎 I use Arch btw 😎
+<img src="https://img.shields.io/badge/OS-Arch%20Linux-blue?logo=arch-linux" alt="Arch Linux Badge" />
