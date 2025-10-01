@@ -113,3 +113,10 @@ See the [`LICENSE`](LICENSE) file for more details.
 ---
 
 Thank you for checking out **Course Scraper**!
+
+---
+
+╔════════════════════════╗
+║  😎 I use Arch btw 😎  ║
+╚════════════════════════╝
+
