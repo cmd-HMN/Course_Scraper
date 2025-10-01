@@ -61,6 +61,8 @@ else
     exit 0
 fi
 
+pip install -r requirements.txt
+
 clear
 
 python pipeline.py \
