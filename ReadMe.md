@@ -2,7 +2,7 @@
 
 _Automated course data scraper built with Python & Selenium 🕵️‍♂️_  
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![Selenium](https://img.shields.io/badge/Selenium-Automation-green?logo=selenium) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)  ![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-lightblue?logo=numpy)  ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-teal?logo=pandas) [![Kaggle](https://img.shields.io/badge/Kaggle-Course%20Scraper-blue?logo=kaggle)](https://github.com/cmd-HMN/Course_Scraper) 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![Selenium](https://img.shields.io/badge/Selenium-Automation-green?logo=selenium) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)  ![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-lightblue?logo=numpy)  ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-teal?logo=pandas) [![Kaggle](https://img.shields.io/badge/Kaggle-Course%20Scraper-blue?logo=kaggle)](https://www.kaggle.com/datasets/cmdhmn/coursera-dataset/data) 
 
 ---
 
