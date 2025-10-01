@@ -115,8 +115,4 @@ See the [`LICENSE`](LICENSE) file for more details.
 Thank you for checking out **Course Scraper**!
 
 ---
-
-╔════════════════════════╗
-║  😎 I use Arch btw 😎  ║
-╚════════════════════════╝
-
+<img src="https://img.shields.io/badge/OS-Arch%20Linux-blue?logo=arch-linux" alt="Arch Linux Badge" /> 😎 I use Arch btw 😎
