@@ -11,17 +11,18 @@ _Automated course data scraper built with Python & Selenium 🕵️‍♂️_
 Course Scraper is a Python-based automation tool that scrapes **Coursera** courses using **Selenium**.  
 As of today `(1-Oct-2025)`, it works smoothly and extracts structured course data into a clean format for analysis.
 
-🔎 **Why it exists?**  
+**Why it exists?**  
 I built this to collect educational data for experiments, ML projects, and analytics.  
 
-⚡ **Flexibility:**  
+**Flexibility:**  
 - If Coursera changes its site paths, you can easily update them inside `_config.py`.  
-- Anyone can reuse and modify this project for their own data collection needs.  
+- Anyone can reuse and modify this project for their own data collection needs.
 
-🛠️ **Maintenance Note:**  
+!!! note "Maintenance"
 I don’t plan on adding new features 🚫, but I’ll fix bugs if something breaks.
 
-💬 **Support:**  
+
+**Support:**  
 If you run into issues or bugs, just hit me up
 
 ---
