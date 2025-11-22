@@ -18,9 +18,9 @@ I built this to collect educational data for experiments, ML projects, and analy
 - If Coursera changes its site paths, you can easily update them inside `_config.py`.  
 - Anyone can reuse and modify this project for their own data collection needs.
 
-!!! note "Maintenance"
-I don’t plan on adding new features 🚫, but I’ll fix bugs if something breaks.
-
+> [!NOTE]
+> **Maintenance:** I don’t plan on adding new features 🚫,  
+> but I’ll fix bugs if something breaks.
 
 **Support:**  
 If you run into issues or bugs, just hit me up
